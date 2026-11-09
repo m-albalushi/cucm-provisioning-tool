@@ -197,4 +197,4 @@ Musallam Al Balushi, network and IT infrastructure engineer (Muscat, Oman).
 [LinkedIn](https://www.linkedin.com/in/musallam1albalushi)
 ## License
 
-MIT. See the `LICENSE` file.
+See the `LICENSE` file.
