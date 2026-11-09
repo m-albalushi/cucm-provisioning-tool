@@ -194,8 +194,7 @@ extension, keep backups, and use it at your own risk. Not affiliated with or end
 ## Author
 
 Musallam Al Balushi, network and IT infrastructure engineer (Muscat, Oman).
-LinkedIn: linkedin.com/in/musallam1albalushi
-
+[LinkedIn](https://www.linkedin.com/in/musallam1albalushi)
 ## License
 
 MIT. See the `LICENSE` file.
